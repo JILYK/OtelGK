@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: bc6437aa00109764ba555b1ac7540090
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1544042832003796628
+    second: Object014|Box004|Take 001|BaseLayer
+  - first:
+      74: 8835325368940951164
+    second: Object014|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: -7137359969816107977
+    second: Object014|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: 3914803804058833045
+    second: Object014|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: 2960803285942305353
+    second: Object014|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: 2047851085792930162
+    second: Object014|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: -3504570629145862809
+    second: Object014|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: -754941249964099646
+    second: Object014|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: 7301357990657136120
+    second: Object014|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: 8402931578111851526
+    second: Object014|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: -4160906388498606719
+    second: Object014|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: -4809399125838552359
+    second: Object014|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: -1117654004082003693
+    second: Object014|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: -7392984015394109613
+    second: Object014|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: 8206707223362821588
+    second: Object014|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: -2961776438816397723
+    second: Object014|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: 1136195317158876841
+    second: Object014|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: -192051993670356964
+    second: Object014|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: 6748053943126278793
+    second: Object014|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: 2096260327447020781
+    second: Object014|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: -3280307916655137209
+    second: Object014|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: 1770995066938054985
+    second: Object014|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: -2762602317104053068
+    second: Object014|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: 4832958439645874810
+    second: Object014|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -3446837777844579832
+    second: Object014|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: 8673586591860728053
+    second: Object014|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: 6290699986939064739
+    second: Object014|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: 347734872987548964
+    second: Object014|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: 8858187717350917464
+    second: Object014|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: 479880308718123207
+    second: Object014|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: -3458233843348054726
+    second: Object014|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: 7438887581993510607
+    second: Object014|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: 5527224064739309063
+    second: Object014|Object014|Take 001|BaseLayer
+  - first:
+      74: 7938802208559125669
+    second: Object014|Object015|Take 001|BaseLayer
+  - first:
+      74: -2868870553183148015
+    second: Object014|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: 6179652210707444833
+    second: Object014|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: 6543160871286760029
+    second: Object014|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: -2567078501307079499
+    second: Object014|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: 2874066480101028713
+    second: Object014|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: -3714532845430499254
+    second: Object014|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: -8606502616387612232
+    second: Object014|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: -4778074675929542770
+    second: Object014|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: -4284777529799881061
+    second: "Object014|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: -2884603840684346453
+    second: "Object014|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: -2772686184724367128
+    second: "Object014|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: 6205034721688187676
+    second: "Object014|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: -4303317443899724959
+    second: "Object014|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: -1292433488383201982
+    second: "Object014|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: -4176072769664129999
+    second: "Object014|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: 5965774560499842862
+    second: "Object014|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: 3480963424332533030
+    second: "Object014|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: 8705181245684290266
+    second: "Object014|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: 59755028273268005
+    second: Object015|Box004|Take 001|BaseLayer
+  - first:
+      74: -7308228722450758051
+    second: Object015|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: -2363297875183065186
+    second: Object015|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: -8646005996967746810
+    second: Object015|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: 6237911577047013134
+    second: Object015|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: -6811765027739363593
+    second: Object015|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: 6843449204580213260
+    second: Object015|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: -3357041509442034947
+    second: Object015|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: -8058211336045908056
+    second: Object015|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: -2280629654134495076
+    second: Object015|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: -4612855550731228697
+    second: Object015|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: -8798775049917220996
+    second: Object015|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: 3991092667263090034
+    second: Object015|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: -4925586113968493823
+    second: Object015|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: 9078833109615332815
+    second: Object015|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: -8247190428830065591
+    second: Object015|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: -5943418274414661946
+    second: Object015|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: 9162192239650510914
+    second: Object015|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: -4936820530977215162
+    second: Object015|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: -7995970947213376401
+    second: Object015|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: -7498153927017732844
+    second: Object015|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: 7942969627588370845
+    second: Object015|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: 1467379339639904193
+    second: Object015|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: -1937436617212179560
+    second: Object015|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -5067931901625015625
+    second: Object015|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: -1536501778279905224
+    second: Object015|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: -7032586509126174040
+    second: Object015|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: 8745268622625331594
+    second: Object015|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: 942769417847301647
+    second: Object015|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: -8395238530317530100
+    second: Object015|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: -5596871438371710094
+    second: Object015|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: -6545072559984118273
+    second: Object015|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: 8583067597142609865
+    second: Object015|Object014|Take 001|BaseLayer
+  - first:
+      74: 595462939669976467
+    second: Object015|Object015|Take 001|BaseLayer
+  - first:
+      74: 6970215247405438656
+    second: Object015|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: -8202964898815175659
+    second: Object015|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: -8463678669940761841
+    second: Object015|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: -5186876046727689725
+    second: Object015|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: 5325875459608648410
+    second: Object015|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: 5493406590988953008
+    second: Object015|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: -5521273788788016710
+    second: Object015|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: -8074917968011032252
+    second: Object015|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: -8757914974960686957
+    second: "Object015|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: -4203728727445842285
+    second: "Object015|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: -5805373805945120010
+    second: "Object015|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: 2438622970929404304
+    second: "Object015|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: 1230887128681814117
+    second: "Object015|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: -3051197541661822781
+    second: "Object015|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: -2992679073939809547
+    second: "Object015|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: 4118043793078526247
+    second: "Object015|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: -6167001055668306620
+    second: "Object015|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: 7685054570627281626
+    second: "Object015|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: 3547505997514530557
+    second: Box004|Box004|Take 001|BaseLayer
+  - first:
+      74: -5304714700727899973
+    second: Box004|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: -6277018520056772912
+    second: Box004|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: -3298858690742037411
+    second: Box004|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: -3986011303336365257
+    second: Box004|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: 1498523337545666229
+    second: Box004|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: -3767461736314306497
+    second: Box004|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: 6027296179808669172
+    second: Box004|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: -4498655901536953022
+    second: Box004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: 699579096418686753
+    second: Box004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: 5686748677716478034
+    second: Box004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: 6898040398754707882
+    second: Box004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: 2261568268283809030
+    second: Box004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: 7977978898986995580
+    second: Box004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: -3090451441949660431
+    second: Box004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: -8621713447799987443
+    second: Box004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: 8093008556393670856
+    second: Box004|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: -3266044810203606988
+    second: Box004|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: -1492140977092568179
+    second: Box004|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: 6932805851666210348
+    second: Box004|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: -2355050376974392033
+    second: Box004|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: 2007342849527793541
+    second: Box004|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: 504216634204417994
+    second: Box004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: -2694986973601989502
+    second: Box004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -6899196990530231339
+    second: Box004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: -3202586175952521309
+    second: Box004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: 5960211771212665881
+    second: Box004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: -8875810206885957584
+    second: Box004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: 1753612311571307623
+    second: Box004|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: -3039744380394746942
+    second: Box004|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: 2813747385499772100
+    second: Box004|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: -2482871033145003736
+    second: Box004|living room|living room|living roomAction|living room|living ro
+  - first:
+      74: -3635007999764691158
+    second: Box004|Object014|Take 001|BaseLayer
+  - first:
+      74: -5764985877513432490
+    second: Box004|Object015|Take 001|BaseLayer
+  - first:
+      74: 1042150367616320643
+    second: Box004|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: 1029734498567084785
+    second: Box004|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: -7912396302101714321
+    second: Box004|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: 6517639019108398202
+    second: Box004|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: 6915585854588275356
+    second: Box004|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: -7085184724751792963
+    second: Box004|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: 3571147243597200549
+    second: Box004|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: -967016345393554066
+    second: Box004|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: 7290131513863967848
+    second: "Box004|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: -5065080423028396752
+    second: "Box004|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: 2411554715857690302
+    second: "Box004|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: -5470819969311013176
+    second: "Box004|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: 6012789326782456260
+    second: "Box004|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: -5610430462019089977
+    second: "Box004|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: -5494522984402951732
+    second: "Box004|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: -5309816070646691605
+    second: "Box004|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: 7114359381804035100
+    second: "Box004|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: -7467715219724244090
+    second: "Box004|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: -1709909308069306332
+    second: "\u6F02\u4EAE\u5149\u669614|Box004|Take 001|BaseLayer"
+  - first:
+      74: 6820711532724906271
+    second: "\u6F02\u4EAE\u5149\u669614|Circle.002|Circle.002|Door|Circle.002|Door"
+  - first:
+      74: -8637503677643559862
+    second: "\u6F02\u4EAE\u5149\u669614|Circle.002|Circle.002|Door|Circle.002|Door.001"
+  - first:
+      74: 48301302428385276
+    second: "\u6F02\u4EAE\u5149\u669614|Circle.002|Circle.002|Door|Circle.002|Door.002"
+  - first:
+      74: 8803704443752812696
+    second: "\u6F02\u4EAE\u5149\u669614|Circle.002|Circle.002|End pin|Circle.002|End
+      pin"
+  - first:
+      74: -3074737009494127562
+    second: "\u6F02\u4EAE\u5149\u669614|Circle.002|Circle.002|Grip|Circle.002|Grip"
+  - first:
+      74: 7283852127846207697
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|CurveAction|Curve|CurveAction"
+  - first:
+      74: 4662231192771797892
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action"
+  - first:
+      74: 7092081462596683566
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca"
+  - first:
+      74: 1004204515855422545
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0"
+  - first:
+      74: -8094711088866912949
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2"
+  - first:
+      74: -6191815277046010510
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5"
+  - first:
+      74: -2126408058396217594
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9"
+  - first:
+      74: -7541821038594470837
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b"
+  - first:
+      74: -6932090291420221032
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d"
+  - first:
+      74: -1225535980893888358
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f"
+  - first:
+      74: -3105641223462099221
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6"
+  - first:
+      74: -1029316254135610787
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0"
+  - first:
+      74: 7748228318974027261
+    second: "\u6F02\u4EAE\u5149\u669614|Curve|Curve|living roomAction|Curve|living
+      roomAction"
+  - first:
+      74: -7010283984497454808
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|CurveAction|living
+      room|CurveAction"
+  - first:
+      74: -2470939762513408562
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.004Action|Curve|Came"
+  - first:
+      74: -3176381947397280835
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.005|Camera.001|C"
+  - first:
+      74: -5301158552436879153
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001"
+  - first:
+      74: -8677572676462194523
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002"
+  - first:
+      74: 8351799867983507511
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003"
+  - first:
+      74: 1449499054261654168
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004"
+  - first:
+      74: -2717940604398437048
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005"
+  - first:
+      74: -2586110317882132165
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006"
+  - first:
+      74: 2744435056030023595
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer"
+  - first:
+      74: 1958198303111169585
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001"
+  - first:
+      74: 391859670683130299
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur"
+  - first:
+      74: 1322700972951032446
+    second: "\u6F02\u4EAE\u5149\u669614|living room|living room|living roomAction|living
+      room|living ro"
+  - first:
+      74: -6287292455873846507
+    second: "\u6F02\u4EAE\u5149\u669614|Object014|Take 001|BaseLayer"
+  - first:
+      74: 2544237600917856714
+    second: "\u6F02\u4EAE\u5149\u669614|Object015|Take 001|BaseLayer"
+  - first:
+      74: 6008333951166260098
+    second: "\u6F02\u4EAE\u5149\u669614|Plane.003|Plane.001|Door|Plane.001|Door"
+  - first:
+      74: -2108398946244118233
+    second: "\u6F02\u4EAE\u5149\u669614|Plane.003|Plane.001|End pin|Plane.001|End
+      pin"
+  - first:
+      74: 7908163842334215119
+    second: "\u6F02\u4EAE\u5149\u669614|Plane.003|Plane.001|Grip|Plane.001|Grip"
+  - first:
+      74: -8070471598182038094
+    second: "\u6F02\u4EAE\u5149\u669614|Plane.004|Plane.003|Door|Plane.003|Door"
+  - first:
+      74: -7160941036309797588
+    second: "\u6F02\u4EAE\u5149\u669614|Plane.004|Plane.003|Door|Plane.003|Door.001"
+  - first:
+      74: 5042413254402049679
+    second: "\u6F02\u4EAE\u5149\u669614|Plane.004|Plane.003|Door|Plane.003|Door.002"
+  - first:
+      74: -4420457222499092169
+    second: "\u6F02\u4EAE\u5149\u669614|Plane.004|Plane.003|End pin|Plane.003|End
+      pin"
+  - first:
+      74: 5958996572018040520
+    second: "\u6F02\u4EAE\u5149\u669614|Plane.004|Plane.003|Grip|Plane.003|Grip"
+  - first:
+      74: 8950239115338160447
+    second: "\u6F02\u4EAE\u5149\u669614|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: 5066329566965626877
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: -71983233573029546
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: 9129590023256564778
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: 4612150768665634202
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: -923559070607661723
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: 130778967305075879
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: -5905780059666909551
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: 8192932056005669284
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: 477196221038413103
+    second: "\u6F02\u4EAE\u5149\u669614|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: 5841315044243499970
+    second: Plane.004|Box004|Take 001|BaseLayer
+  - first:
+      74: -2810982858404111882
+    second: Plane.004|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: -9152119524956948870
+    second: Plane.004|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: -316721164019886000
+    second: Plane.004|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: 6141085890399080427
+    second: Plane.004|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: 5004133929243999402
+    second: Plane.004|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: 8627261135301157623
+    second: Plane.004|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: 3035486951377277666
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: 3124146675053172115
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: 8453724350205967015
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: 4161957826117589022
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: 2954891138381155565
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: -1312476310622598057
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: 5655817343257079308
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: 2262754442386521217
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: 1081629074866278094
+    second: Plane.004|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: -9219080129386946650
+    second: Plane.004|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: 5609663738615804507
+    second: Plane.004|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: 5377029928505828767
+    second: Plane.004|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: -4541771274415080346
+    second: Plane.004|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: -3023991335201475040
+    second: Plane.004|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: -5276441021493280641
+    second: Plane.004|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: -3626807664715928088
+    second: Plane.004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: 1526807738836255022
+    second: Plane.004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -7823367128575980981
+    second: Plane.004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: -3423893637670265939
+    second: Plane.004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: 2414825165224088549
+    second: Plane.004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: 4028169108683995652
+    second: Plane.004|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: 3556730019560553495
+    second: Plane.004|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: 4329982953115909099
+    second: Plane.004|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: 738571666803837148
+    second: Plane.004|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: 2359283392918390994
+    second: Plane.004|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: 1280080342150736159
+    second: Plane.004|Object014|Take 001|BaseLayer
+  - first:
+      74: -6280501678062860452
+    second: Plane.004|Object015|Take 001|BaseLayer
+  - first:
+      74: 7277717508764949635
+    second: Plane.004|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: -5501858753884754659
+    second: Plane.004|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: 313029287798940626
+    second: Plane.004|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: 39482678176848714
+    second: Plane.004|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: -8049499820555773036
+    second: Plane.004|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: 3274182637299429894
+    second: Plane.004|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: -5510200217194769121
+    second: Plane.004|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: 6518459949982146294
+    second: Plane.004|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: -4305123121112154587
+    second: "Plane.004|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: 7318151656810712989
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: 109545541386416742
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: -6441079409679221433
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: 5732703345697729025
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: 82864060245058550
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: -575154076102904004
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: 7620627673135919373
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: 7632316926816077653
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: -1598630730809980036
+    second: "Plane.004|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: -1302040031013436016
+    second: Circle.002|Box004|Take 001|BaseLayer
+  - first:
+      74: 7376485086793504127
+    second: Circle.002|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: 8830528236107353008
+    second: Circle.002|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: 1224673184992218870
+    second: Circle.002|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: -2867313765222834603
+    second: Circle.002|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: -6979932435723422419
+    second: Circle.002|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: -3957348456135523232
+    second: Circle.002|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: 3798441054679542015
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: -5815876094667048444
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: 2398521529040249496
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: 47942376939124690
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: -1892286616055600399
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: -5667722313945945740
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: 1879303875513277038
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: 50597681952204459
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: 8896864173807973033
+    second: Circle.002|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: -4914124778212153222
+    second: Circle.002|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: -1127950366291106741
+    second: Circle.002|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: -8814053191585469328
+    second: Circle.002|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: 3802757097368634067
+    second: Circle.002|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: 2022245683791813559
+    second: Circle.002|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: -8173713716739801929
+    second: Circle.002|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: -7811789171661426127
+    second: Circle.002|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: 7174122158569425800
+    second: Circle.002|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -1930019079557113933
+    second: Circle.002|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: -5112280851338106648
+    second: Circle.002|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: -6793146329235647415
+    second: Circle.002|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: -4471674653944491650
+    second: Circle.002|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: -3484105440624826789
+    second: Circle.002|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: -210234554226172752
+    second: Circle.002|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: 3590209866904586803
+    second: Circle.002|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: -8790860298749797231
+    second: Circle.002|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: -2017185077332248224
+    second: Circle.002|Object014|Take 001|BaseLayer
+  - first:
+      74: 938986997848364987
+    second: Circle.002|Object015|Take 001|BaseLayer
+  - first:
+      74: -2678165691333658068
+    second: Circle.002|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: 4927304962360095276
+    second: Circle.002|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: -4225468416141603318
+    second: Circle.002|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: 5932391659446208616
+    second: Circle.002|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: -7991225072431000009
+    second: Circle.002|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: -1227270756885817542
+    second: Circle.002|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: 2889012812170710610
+    second: Circle.002|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: -1279139072114776131
+    second: Circle.002|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: 8159848254791697178
+    second: "Circle.002|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: 2535941090911155188
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: -3517265544740178725
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: -995357221336787910
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: -1958173684086943152
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: 3141314581067248739
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: 6413269791705123548
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: -5195260594516497431
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: 7037516508813498226
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: 3136948254633866491
+    second: "Circle.002|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: -8097741044170258936
+    second: Plane.003|Box004|Take 001|BaseLayer
+  - first:
+      74: -9020867358731561393
+    second: Plane.003|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: 4317590491332164168
+    second: Plane.003|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: 3580309207721960647
+    second: Plane.003|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: -6984764495932377979
+    second: Plane.003|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: -4307370900388656661
+    second: Plane.003|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: 2205909033466542084
+    second: Plane.003|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: -4223128888993912066
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: -682095607044470040
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: -493455684932731209
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: -1370954128587972950
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: 4770208701028197559
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: 2947979767328766390
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: 7570016769932908084
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: -6174388917477679086
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: -2715054350591598427
+    second: Plane.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: -3502008045598767995
+    second: Plane.003|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: 8952939863138998636
+    second: Plane.003|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: 4945867974676013604
+    second: Plane.003|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: -2389077459417596817
+    second: Plane.003|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: -2815801059101460548
+    second: Plane.003|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: -6774658130909269490
+    second: Plane.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: -5192942848722784268
+    second: Plane.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: 7561932512888314416
+    second: Plane.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -2674336939659903762
+    second: Plane.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: 4243641945098556268
+    second: Plane.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: -8592835059499253998
+    second: Plane.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: 8915270126095349370
+    second: Plane.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: -2978933492666649686
+    second: Plane.003|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: 456601313887218697
+    second: Plane.003|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: 3592353539836293481
+    second: Plane.003|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: 1555351130590888071
+    second: Plane.003|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: 8602385531555675044
+    second: Plane.003|Object014|Take 001|BaseLayer
+  - first:
+      74: 1582419301672388851
+    second: Plane.003|Object015|Take 001|BaseLayer
+  - first:
+      74: -6442191449221504113
+    second: Plane.003|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: -5485878414524383575
+    second: Plane.003|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: 9064919671959120161
+    second: Plane.003|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: 6478834707270079218
+    second: Plane.003|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: 7828960197471849401
+    second: Plane.003|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: 4781633678584652357
+    second: Plane.003|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: -702916074806305783
+    second: Plane.003|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: 7990342418987077998
+    second: Plane.003|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: -6154455637342161087
+    second: "Plane.003|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: -1374805634936988172
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: -5250318070630899373
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: -7851024605994077472
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: -4522536114979000987
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: 5273118270101663226
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: 2926146969290579799
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: -3893071529717539711
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: -6776932453028151468
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: -5561741309230420365
+    second: "Plane.003|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: -871329813772246626
+    second: Circle.001|Box004|Take 001|BaseLayer
+  - first:
+      74: 854871029206396799
+    second: Circle.001|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: 3774750844064142631
+    second: Circle.001|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: 8627138007808546095
+    second: Circle.001|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: 8447066732237116787
+    second: Circle.001|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: -3032189018983958647
+    second: Circle.001|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: 7461739134890244743
+    second: Circle.001|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: 3444711378900129712
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: -8095779445740049329
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: -1432080122115471940
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: -3914629959489808397
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: -3787960757542920995
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: 7215971317633219000
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: -2182296432551855620
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: 7943733338274822929
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: -5138073859828579906
+    second: Circle.001|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: 8176119148115549407
+    second: Circle.001|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: -5278169040891906567
+    second: Circle.001|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: 6973687138301989435
+    second: Circle.001|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: -4770214856664525374
+    second: Circle.001|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: 4083489885697495551
+    second: Circle.001|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: -1060553210336422229
+    second: Circle.001|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: 6852650401359379395
+    second: Circle.001|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: 3627526332121544949
+    second: Circle.001|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: 3228400881741124580
+    second: Circle.001|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: -47989087115834300
+    second: Circle.001|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: -1273417192627449051
+    second: Circle.001|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: -371539725506180333
+    second: Circle.001|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: -6462099420511167756
+    second: Circle.001|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: -6083014517957247980
+    second: Circle.001|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: 3944961260265795515
+    second: Circle.001|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: -8146395102081410402
+    second: Circle.001|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: 4666092725461133719
+    second: Circle.001|Object014|Take 001|BaseLayer
+  - first:
+      74: -989003129851313068
+    second: Circle.001|Object015|Take 001|BaseLayer
+  - first:
+      74: -305710720503354379
+    second: Circle.001|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: 3881255158170426397
+    second: Circle.001|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: -1148203242796941088
+    second: Circle.001|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: -5328941909977821352
+    second: Circle.001|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: -3668442673765651272
+    second: Circle.001|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: -5736162349602430894
+    second: Circle.001|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: 6278038613981922147
+    second: Circle.001|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: 6685848506647307249
+    second: Circle.001|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: -6709388053299854758
+    second: "Circle.001|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: 6746096271490778096
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: -2972942222813675760
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: 6589268949129535827
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: 2018641528298481932
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: -7658463561851331617
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: 5908465814972856011
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: -6794323686030744725
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: -4161236138225673225
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: -5356604498315645597
+    second: "Circle.001|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: -1948527968618682204
+    second: Plane.005|Box004|Take 001|BaseLayer
+  - first:
+      74: -7833576376674687905
+    second: Plane.005|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: 2309302494510559863
+    second: Plane.005|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: -7414879712354271236
+    second: Plane.005|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: 950143960482241987
+    second: Plane.005|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: -4268269880690129730
+    second: Plane.005|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: -3463175907133943314
+    second: Plane.005|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: 4429206118599520633
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: 685116983360943868
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: -7554207018569926017
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: 908871292452197890
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: -2540826123853068433
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: -377389886379688750
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: -206831142515948785
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: 4795198451215376257
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: 8756681307462331296
+    second: Plane.005|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: -345981983369067809
+    second: Plane.005|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: 1195241238243163853
+    second: Plane.005|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: 1037226966401880345
+    second: Plane.005|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: -4878352393574832196
+    second: Plane.005|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: 4012896735603080153
+    second: Plane.005|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: -8678432248109372911
+    second: Plane.005|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: 6652981098310828838
+    second: Plane.005|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: -103050027255881260
+    second: Plane.005|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -6567975716109636849
+    second: Plane.005|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: 5100485946810286980
+    second: Plane.005|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: 565096167650757934
+    second: Plane.005|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: 2118322497530983984
+    second: Plane.005|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: 7716670233995925815
+    second: Plane.005|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: -2783694813127181853
+    second: Plane.005|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: -6918041683271717142
+    second: Plane.005|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: -3229036182931152368
+    second: Plane.005|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: -5436112268118118393
+    second: Plane.005|Object014|Take 001|BaseLayer
+  - first:
+      74: -1936753032345959973
+    second: Plane.005|Object015|Take 001|BaseLayer
+  - first:
+      74: -9159728405153782380
+    second: Plane.005|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: -7992166510141068713
+    second: Plane.005|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: -6860573084132991356
+    second: Plane.005|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: -991545178019460452
+    second: Plane.005|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: -7879367931348089700
+    second: Plane.005|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: 219378499481072078
+    second: Plane.005|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: -192962389567133134
+    second: Plane.005|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: -7320906588695573706
+    second: Plane.005|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: -153965838057328920
+    second: "Plane.005|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: -5492094882201894033
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: -5665244515792509653
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: -7601967012944739092
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: 8240277984117775689
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: -2392093665887451305
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: -1149922676238691465
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: 5807476721037058904
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: -8263150119931943198
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: -3504424778246682426
+    second: "Plane.005|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: -6782184644628668116
+    second: Circle.003|Box004|Take 001|BaseLayer
+  - first:
+      74: 1073959110843067237
+    second: Circle.003|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: -8071737217289308469
+    second: Circle.003|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: 4160786076589553336
+    second: Circle.003|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: 4485678827529102582
+    second: Circle.003|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: -1718229063714878414
+    second: Circle.003|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: 1551378370850890985
+    second: Circle.003|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: 307949108863657541
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: 8536181878451667623
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: 5794838113497831606
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: 5268007348584610343
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: -6317743092603518356
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: 700403177857174188
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: -5291110158475176547
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: -9111014447533298464
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: -8892390806986072660
+    second: Circle.003|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: 5105686867787825730
+    second: Circle.003|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: 3905984987733322747
+    second: Circle.003|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: 6700145483417770943
+    second: Circle.003|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: 1646669744219575981
+    second: Circle.003|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: -8526036580347974841
+    second: Circle.003|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: 1945151089423253340
+    second: Circle.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: -4919581511540138648
+    second: Circle.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: 536834533005977246
+    second: Circle.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -2174060412599591445
+    second: Circle.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: -1222265178282589938
+    second: Circle.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: -8483421962915062094
+    second: Circle.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: 1576050895875747308
+    second: Circle.003|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: 4757787334379984395
+    second: Circle.003|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: 5923744578554678519
+    second: Circle.003|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: 6938190628951470857
+    second: Circle.003|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: 1426192859425560148
+    second: Circle.003|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: 868105511216596142
+    second: Circle.003|Object014|Take 001|BaseLayer
+  - first:
+      74: 1725120728831784893
+    second: Circle.003|Object015|Take 001|BaseLayer
+  - first:
+      74: -628185858797720233
+    second: Circle.003|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: 4823321740157255789
+    second: Circle.003|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: 4290881595017652203
+    second: Circle.003|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: -8433204657619395966
+    second: Circle.003|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: -7407131254041133684
+    second: Circle.003|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: -4226201668687015692
+    second: Circle.003|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: -2921158879853811850
+    second: Circle.003|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: 4003806162412486060
+    second: Circle.003|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: 3835758520738194748
+    second: "Circle.003|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: -520915773041038111
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: 6376145510725298403
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: -2169540483435320411
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: 9185831616115765392
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: -1935815722131153779
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: 6148912252276310731
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: 190392218546471472
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: 5435977258408484984
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: 6454468713113136737
+    second: "Circle.003|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  - first:
+      74: -2482440331616238218
+    second: Plane.010|Box004|Take 001|BaseLayer
+  - first:
+      74: 7091655603358433462
+    second: Plane.010|Circle.002|Circle.002|Door|Circle.002|Door
+  - first:
+      74: 7985722097271999958
+    second: Plane.010|Circle.002|Circle.002|Door|Circle.002|Door.001
+  - first:
+      74: -4877826111400957572
+    second: Plane.010|Circle.002|Circle.002|Door|Circle.002|Door.002
+  - first:
+      74: 9087641787061630988
+    second: Plane.010|Circle.002|Circle.002|End pin|Circle.002|End pin
+  - first:
+      74: -1964658814509657618
+    second: Plane.010|Circle.002|Circle.002|Grip|Circle.002|Grip
+  - first:
+      74: 3133455555210860453
+    second: Plane.010|Curve|Curve|CurveAction|Curve|CurveAction
+  - first:
+      74: 8320189396735054707
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.004Action|Curve|Camera.004Action
+  - first:
+      74: 5673383552730263339
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Ca
+  - first:
+      74: -2666018547445357856
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_0
+  - first:
+      74: -6806185047846089030
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_2
+  - first:
+      74: -6543421139694177850
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_5
+  - first:
+      74: -7131999851560700893
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_9
+  - first:
+      74: -933873454736897091
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_b
+  - first:
+      74: -5014168360898020189
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_d
+  - first:
+      74: 8871445011385360626
+    second: Plane.010|Curve|Curve|Curve|Curve|Camera.005|Camera.001|Camera.001|Came_f
+  - first:
+      74: 193665803053413262
+    second: Plane.010|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction.001|Curve|Cur_6
+  - first:
+      74: 6708856571351148579
+    second: Plane.010|Curve|Curve|Curve|Curve|Curve|Curve|CurveAction|Curve|CurveAc_0
+  - first:
+      74: -3596010582907288274
+    second: Plane.010|Curve|Curve|living roomAction|Curve|living roomAction
+  - first:
+      74: 7935855799924029797
+    second: Plane.010|living room|living room|CurveAction|living room|CurveAction
+  - first:
+      74: -5809828484873576328
+    second: Plane.010|living room|living room|Curve|Curve|Camera.004Action|Curve|Came
+  - first:
+      74: -4033074821267147085
+    second: Plane.010|living room|living room|Curve|Curve|Camera.005|Camera.001|C
+  - first:
+      74: -6441455682506710149
+    second: Plane.010|living room|living room|Curve|Curve|Camera.005|Camera.001|C.001
+  - first:
+      74: 8895739953923470767
+    second: Plane.010|living room|living room|Curve|Curve|Camera.005|Camera.001|C.002
+  - first:
+      74: -4502378826917740831
+    second: Plane.010|living room|living room|Curve|Curve|Camera.005|Camera.001|C.003
+  - first:
+      74: 2422230564046932748
+    second: Plane.010|living room|living room|Curve|Curve|Camera.005|Camera.001|C.004
+  - first:
+      74: -6329217844785447455
+    second: Plane.010|living room|living room|Curve|Curve|Camera.005|Camera.001|C.005
+  - first:
+      74: -8709707557876991028
+    second: Plane.010|living room|living room|Curve|Curve|Camera.005|Camera.001|C.006
+  - first:
+      74: 7681886723308119546
+    second: Plane.010|living room|living room|Curve|Curve|Camera.005|Camera.001|Camer
+  - first:
+      74: 3752613307186151035
+    second: Plane.010|living room|living room|Curve|Curve|Curve|Curve|CurveAction.001
+  - first:
+      74: 3510666542238700264
+    second: Plane.010|living room|living room|Curve|Curve|Curve|Curve|CurveAction|Cur
+  - first:
+      74: 4717349694061565729
+    second: Plane.010|living room|living room|living roomAction|living room|living
+      ro
+  - first:
+      74: 4072940065417682036
+    second: Plane.010|Object014|Take 001|BaseLayer
+  - first:
+      74: 8284519988291450420
+    second: Plane.010|Object015|Take 001|BaseLayer
+  - first:
+      74: -8207209543353675467
+    second: Plane.010|Plane.003|Plane.001|Door|Plane.001|Door
+  - first:
+      74: -4375750362435761633
+    second: Plane.010|Plane.003|Plane.001|End pin|Plane.001|End pin
+  - first:
+      74: 6715874687584719800
+    second: Plane.010|Plane.003|Plane.001|Grip|Plane.001|Grip
+  - first:
+      74: -3292579798449248078
+    second: Plane.010|Plane.004|Plane.003|Door|Plane.003|Door
+  - first:
+      74: 4528282963072988689
+    second: Plane.010|Plane.004|Plane.003|Door|Plane.003|Door.001
+  - first:
+      74: 6357204636897294489
+    second: Plane.010|Plane.004|Plane.003|Door|Plane.003|Door.002
+  - first:
+      74: 939575169124933409
+    second: Plane.010|Plane.004|Plane.003|End pin|Plane.003|End pin
+  - first:
+      74: 3852629121657026933
+    second: Plane.010|Plane.004|Plane.003|Grip|Plane.003|Grip
+  - first:
+      74: 1425358735285724172
+    second: "Plane.010|\u53F0\u706F\u6696\u5149|Take 001|"
+  - first:
+      74: 8079748905597734803
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669603|Take 001|"
+  - first:
+      74: 5424144874664681143
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669604|Take 001|"
+  - first:
+      74: 567820005620164914
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669605|Take 001|"
+  - first:
+      74: -2223387806594798973
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669611|Take 001|"
+  - first:
+      74: -9087296628375863806
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669612|Take 001|"
+  - first:
+      74: -123453133260874820
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669613|Take 001|"
+  - first:
+      74: -4834172250210153337
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669614|Take 001|"
+  - first:
+      74: -2593510055616107569
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669615|Take 001|"
+  - first:
+      74: 2035088600836395977
+    second: "Plane.010|\u6F02\u4EAE\u5149\u669616|Take 001|"
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
